@@ -23,3 +23,4 @@ Langchain is divided into
 6:AGENTS
 
 
+git remote set-url origin https://harsh373:YOUR_PAT_HERE@github.com/harsh373/GenAi.git
