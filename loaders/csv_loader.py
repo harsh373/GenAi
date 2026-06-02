@@ -10,3 +10,4 @@ print(docs[1])
 #for every row you will get a new docs in the list and it is there to load in it 
 
 
+ 
